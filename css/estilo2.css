@@ -1,0 +1,48 @@
+*
+{
+	margin:10px;
+	padding:10px;
+}
+body
+{
+	background-color:#003333;
+	color:#ffffff;
+}
+#contenedor1
+{
+	width:400px;
+	height:400px;
+	background:pink;
+	border-radius:20px;
+	font-size:20pt;
+	text-align:center;
+	text-transform:uppercase;
+}
+header
+{
+	height:100px;
+	background:green;
+	border-radius:20px;
+	
+}
+section
+{
+	height:230px;
+	background:orange;
+	border-radius:20px;
+	
+}
+header h1
+{
+	text-decoration:underline;
+	color:red;
+}
+section h1
+{
+	font-family:italic;
+	color:pink;
+}
+p
+{
+	font-size:15px;
+}
